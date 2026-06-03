@@ -74,8 +74,6 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/GaneshDeshmukh05/GaneshDeshmukh05/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/GaneshDeshmukh05/GaneshDeshmukh05/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
 
 ###
 
